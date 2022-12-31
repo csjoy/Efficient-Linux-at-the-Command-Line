@@ -1,0 +1,3 @@
+echo -n animals.txt | wc -c
+echo -n cartoon-mascots.txt | wc -c
+echo -n zebra-stripes.txt | wc -c
